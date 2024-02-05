@@ -1,0 +1,6 @@
+import cn.hutool.core.util.HexUtil;
+public class FunctionUse3363 {
+public void funcUse() {
+HexUtil hexutil = new HexUtil();
+}
+}
